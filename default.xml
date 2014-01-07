@@ -53,20 +53,20 @@
 	         path="vim/vim/bundle/vim-colors-solarized" remote="github" />
 	<project name="atweiden/vim-dragvisuals"
 	         path="vim/vim/bundle/vim-dragvisuals" remote="github" />
-	<project name="Lokaltog/vim-easymotion.git"
-	         path="vim/vim/bundle/vim-easymotion.git" remote="github" />
-	<project name="tommcdo/vim-exchange.git"
-	         path="vim/vim/bundle/vim-exchange.git" remote="github" />
+	<project name="Lokaltog/vim-easymotion"
+	         path="vim/vim/bundle/vim-easymotion" remote="github" />
+	<project name="tommcdo/vim-exchange"
+	         path="vim/vim/bundle/vim-exchange" remote="github" />
 	<project name="tpope/vim-fireplace"
 	         path="vim/vim/bundle/vim-fireplace" remote="github" />
-	<project name="tpope/vim-fugitive.git"
-	         path="vim/vim/bundle/vim-fugitive.git" remote="github" />
-	<project name="airblade/vim-gitgutter.git"
-	         path="vim/vim/bundle/vim-gitgutter.git" remote="github" />
+	<project name="tpope/vim-fugitive"
+	         path="vim/vim/bundle/vim-fugitive" remote="github" />
+	<project name="airblade/vim-gitgutter"
+	         path="vim/vim/bundle/vim-gitgutter" remote="github" />
 	<project name="tommcdo/vim-lion"
 	         path="vim/vim/bundle/vim-lion" remote="github" />
-	<project name="tsaleh/vim-matchit.git"
-	         path="vim/vim/bundle/vim-matchit.git" remote="github" />
+	<project name="tsaleh/vim-matchit"
+	         path="vim/vim/bundle/vim-matchit" remote="github" />
 	<project name="tpope/vim-repeat"
 	         path="vim/vim/bundle/vim-repeat" remote="github" />
 	<project name="justinmk/vim-sneak"
