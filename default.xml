@@ -37,8 +37,8 @@
 	         path="vim/vim/bundle/FuzzyFinder" remote="github" />
 	<project name="vim-scripts/Gundo"
 	         path="vim/vim/bundle/Gundo" remote="github" />
-	<project name="vim-scripts/paredit.vim"
-	         path="vim/vim/bundle/paredit.vim" remote="github" />
+	<project name="guns/vim-sexp"
+	         path="vim/vim/bundle/vim-sexp.vim" remote="github" />
 	<project name="kien/rainbow_parentheses.vim"
 	         path="vim/vim/bundle/rainbow_parentheses.vim" remote="github" />
 	<project name="bling/vim-airline"
