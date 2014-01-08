@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="ssh://git@github.com" name="github"/>
+  
+  <default remote="github" revision="master"/>
+  
+  <project name="Lokaltog/vim-easymotion" path="vim/vim/bundle/vim-easymotion" revision="667a668e114e9ec0e5d4cbcb0962d835b23614c4" upstream="master"/>
+  <project name="Wonko7/conf-git" path="git/" revision="2cee71c1129c9acd1af6c7233d521a6486df568d" upstream="master"/>
+  <project name="Wonko7/conf-manifest" path="manifest" revision="72fc7efa9051d99f1009ffba954f412b9dda1a75" upstream="master"/>
+  <project name="Wonko7/conf-misc" path="misc/" revision="79d4b78cafbb6f8bab80e46bf67a6d6e493f81d9" upstream="master"/>
+  <project name="Wonko7/conf-vim" path="vim/" revision="80d1613b7a72c97b323183512e9a9b015515a4dd" upstream="master"/>
+  <project name="Wonko7/conf-xmonad" path="xmonad/" revision="da34e6b000c547f0838ecf5f4975377f7ceb5725" upstream="master"/>
+  <project name="Wonko7/conf-zsh" path="zsh/" revision="1ed0b36a7c69d808cafd8c093a50bf3fc6953d91" upstream="master"/>
+  <project name="airblade/vim-gitgutter" path="vim/vim/bundle/vim-gitgutter" revision="03ca0f8d9313c054aef0f2a73adf464caddebe4e" upstream="master"/>
+  <project name="altercation/vim-colors-solarized" path="vim/vim/bundle/vim-colors-solarized" revision="528a59f26d12278698bb946f8fb82a63711eec21" upstream="master"/>
+  <project name="atweiden/vim-betterdigraphs" path="vim/vim/bundle/vim-betterdigraphs" revision="4bb56c20263b219de35485297a3cdaebb4e38b69" upstream="master"/>
+  <project name="atweiden/vim-dragvisuals" path="vim/vim/bundle/vim-dragvisuals" revision="f49235b90bc5df2a89b6a777411c0088873ec687" upstream="master"/>
+  <project name="bkad/CamelCaseMotion" path="vim/vim/bundle/CamelCaseMotion" revision="ee138dc25f9b826af8b64fb17886fdf27a9267e9" upstream="master"/>
+  <project name="bling/vim-airline" path="vim/vim/bundle/vim-airline" revision="7a1801e9c456d0a043167003afc439543538ef3b" upstream="master"/>
+  <project name="guns/vim-clojure-static" path="vim/vim/bundle/vim-clojure-static" revision="a7c6158fac55aa5e47a91e493a54417d5372e73a" upstream="master"/>
+  <project name="guns/vim-sexp" path="vim/vim/bundle/vim-sexp" revision="2626182fc7ebe773e90d82148bbfa6a1a43f0194" upstream="master"/>
+  <project name="justinmk/vim-sneak" path="vim/vim/bundle/vim-sneak" revision="ee9a195d05fc16544ba50fc8ea00ae60db1f41fd" upstream="master"/>
+  <project name="kien/ctrlp.vim" path="vim/vim/bundle/ctrlp.vim" revision="b5d3fe66a58a13d2ff8b6391f4387608496a030f" upstream="master"/>
+  <project name="kien/rainbow_parentheses.vim" path="vim/vim/bundle/rainbow_parentheses.vim" revision="eb8baa5428bde10ecc1cb14eed1d6e16f5f24695" upstream="master"/>
+  <project name="mrtazz/DoxygenToolkit.vim" path="vim/vim/bundle/DoxygenToolkit.vim" revision="26e81a9215328db7460c7ae4de70cccd6291207f" upstream="master"/>
+  <project name="tommcdo/vim-exchange" path="vim/vim/bundle/vim-exchange" revision="1554f827735ce2c98713db3d2d56a0f3bb82b73c" upstream="master"/>
+  <project name="tommcdo/vim-lion" path="vim/vim/bundle/vim-lion" revision="7420c7739366d307641c3cc6ef7240cb84f0d1ac" upstream="master"/>
+  <project name="tpope/vim-classpath" path="vim/vim/bundle/vim-classpath" revision="d0362916b36601a2a92d2563b3e353db0cd60676" upstream="master"/>
+  <project name="tpope/vim-fireplace" path="vim/vim/bundle/vim-fireplace" revision="1f3f36505e032eced55704c26772994178f44786" upstream="master"/>
+  <project name="tpope/vim-fugitive" path="vim/vim/bundle/vim-fugitive" revision="546a6bf2197529ed1bd402244cbf6e72ed62b2ca" upstream="master"/>
+  <project name="tpope/vim-repeat" path="vim/vim/bundle/vim-repeat" revision="2a3c5f8e3c26a57b8eb4cfc4be79615a1c508ef6" upstream="master"/>
+  <project name="tpope/vim-surround" path="vim/vim/bundle/vim-surround" revision="42e9b46e7a20a2f394664874c7bbd9d6f6c39e8a" upstream="master"/>
+  <project name="tpope/vim-vividchalk" path="vim/vim/bundle/vim-vividchalk" revision="fd696065c7b27e8fca91907ba51151a887c36803" upstream="master"/>
+  <project name="tsaleh/vim-matchit" path="vim/vim/bundle/vim-matchit" revision="8f8665e04fe377a25bbed29abf13ea66a1a0c129" upstream="master"/>
+  <project name="tsaleh/vim-supertab" path="vim/vim/bundle/vim-supertab" revision="096be343f89c63fc086a55262f2f264d0d0524b0" upstream="master"/>
+  <project name="vim-scripts/FuzzyFinder" path="vim/vim/bundle/FuzzyFinder" revision="b9f165970346df55862853dd83c8a4f2b2b70262" upstream="master"/>
+  <project name="vim-scripts/Gundo" path="vim/vim/bundle/Gundo" revision="f443470b96364c24a775629418a6b2562ec9173e" upstream="master"/>
+</manifest>
