@@ -38,7 +38,7 @@
 	<project name="vim-scripts/Gundo"
 	         path="vim/vim/bundle/Gundo" remote="github" />
 	<project name="guns/vim-sexp"
-	         path="vim/vim/bundle/vim-sexp.vim" remote="github" />
+	         path="vim/vim/bundle/vim-sexp" remote="github" />
 	<project name="kien/rainbow_parentheses.vim"
 	         path="vim/vim/bundle/rainbow_parentheses.vim" remote="github" />
 	<project name="bling/vim-airline"
