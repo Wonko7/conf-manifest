@@ -27,6 +27,8 @@
 
 	<!-- vim plugins -->
 
+	<project name="https://github.com/cfurrow/vim-l9"
+	         path="vim/vim/bundle/vim-l9" remote="github" />
 	<project name="bkad/CamelCaseMotion"
 	         path="vim/vim/bundle/CamelCaseMotion" remote="github" />
 	<project name="kien/ctrlp.vim"
