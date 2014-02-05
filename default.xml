@@ -23,7 +23,7 @@
 	         path="xmonad/" remote="github" />
 
 	<project name="Wonko7/conf-misc"
-	         path="misc/" remote="github" />
+	         path="misc/" remote="github" revision="serenity" />
 
 	<!-- vim plugins -->
 
