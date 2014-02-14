@@ -30,6 +30,10 @@
 	<project name="zsh-users/zsh-completions"
 		 path="zsh/completions" remote="github" />
 
+	<project name="zsh-users/zsh-syntax-highlighting"
+		 path="zsh/syntax-highlighting" remote="github" />
+
+
 	<!-- vim plugins -->
 
 	<project name="cfurrow/vim-l9"
