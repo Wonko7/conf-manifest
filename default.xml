@@ -25,6 +25,11 @@
 	<project name="Wonko7/conf-misc"
 	         path="misc/" remote="github" revision="daban-urnud" />
 
+	<!-- zsh plugins -->
+
+	<project name="zsh-users/zsh-completions"
+		 path="zsh/completions" remote="github" />
+
 	<!-- vim plugins -->
 
 	<project name="cfurrow/vim-l9"
