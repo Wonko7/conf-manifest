@@ -36,6 +36,8 @@
 
 	<!-- vim plugins -->
 
+	<project name="jrk/vim-ocaml"
+	         path="vim/vim/bundle/vim-ocaml" remote="github" />
 	<project name="cfurrow/vim-l9"
 	         path="vim/vim/bundle/vim-l9" remote="github" />
 	<project name="bkad/CamelCaseMotion"
