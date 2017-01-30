@@ -33,6 +33,9 @@
 	<project name="zsh-users/zsh-syntax-highlighting"
 		 path="zsh/syntax-highlighting" remote="github" />
 
+	<project name="seebi/dircolors-solarized"
+		 path="zsh/dircolors-solarized" remote="github" />
+
 	<!-- vim plugins -->
 
 	<project name="jrk/vim-ocaml"
