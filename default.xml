@@ -33,7 +33,6 @@
 	<project name="zsh-users/zsh-syntax-highlighting"
 		 path="zsh/syntax-highlighting" remote="github" />
 
-
 	<!-- vim plugins -->
 
 	<project name="jrk/vim-ocaml"
@@ -62,6 +61,8 @@
 	         path="vim/vim/bundle/rainbow_parentheses.vim" remote="github" />
 	<project name="bling/vim-airline"
 	         path="vim/vim/bundle/vim-airline" remote="github" />
+	<project name="bling/vim-airline-themes"
+	         path="vim/vim/bundle/vim-airline-themes" remote="github" />
 	<project name="atweiden/vim-betterdigraphs"
 	         path="vim/vim/bundle/vim-betterdigraphs" remote="github" />
 	<project name="tpope/vim-classpath"
@@ -98,5 +99,10 @@
 	         path="vim/vim/bundle/vim-surround" remote="github" />
 	<project name="tpope/vim-vividchalk"
 	         path="vim/vim/bundle/vim-vividchalk" remote="github" />
+
+	<!-- misc -->
+
+	<project name="powerline/fonts"
+	         path="fonts" remote="github" />
 
 </manifest>
