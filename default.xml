@@ -14,7 +14,7 @@
 	         path="vim/" remote="github" />
 
 	<project name="Wonko7/conf-zsh"
-	         path="zsh/" remote="github" />
+	         path="zsh/" remote="github" revision="remote-machine" />
 
 	<project name="Wonko7/conf-git"
 	         path="git/" remote="github" />
@@ -23,7 +23,7 @@
 	         path="xmonad/" remote="github" />
 
 	<project name="Wonko7/conf-misc"
-	         path="misc/" remote="github" revision="daban-urnud" />
+	         path="misc/" remote="github" revision="remote-machine" />
 
 	<!-- zsh plugins -->
 
@@ -102,7 +102,9 @@
 
 	<!-- misc -->
 
+	<!--  not needed on a remote machine.
 	<project name="powerline/fonts"
 	         path="fonts" remote="github" />
+	-->
 
 </manifest>
