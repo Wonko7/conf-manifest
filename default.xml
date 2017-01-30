@@ -25,6 +25,11 @@
 	<project name="Wonko7/conf-misc"
 	         path="misc/" remote="github" revision="daban-urnud" />
 
+	<!-- xmonad mudules -->
+
+	<project name="egasimus/xmonad-equalspacing"
+		 path="xmonad/lib/XMonad/Layout" remote="github" />
+
 	<!-- zsh plugins -->
 
 	<project name="zsh-users/zsh-completions"
