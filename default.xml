@@ -66,8 +66,6 @@
 	         path="vim/vim/bundle/vim-colors-solarized" remote="github" />
 	<project name="atweiden/vim-dragvisuals"
 	         path="vim/vim/bundle/vim-dragvisuals" remote="github" />
-	<project name="Lokaltog/vim-easymotion"
-	         path="vim/vim/bundle/vim-easymotion" remote="github" />
 	<project name="tommcdo/vim-exchange"
 	         path="vim/vim/bundle/vim-exchange" remote="github" />
 	<project name="tpope/vim-fireplace"
