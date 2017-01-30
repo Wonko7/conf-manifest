@@ -78,8 +78,6 @@
 	         path="vim/vim/bundle/vim-gitgutter" remote="github" />
 	<project name="tommcdo/vim-lion"
 	         path="vim/vim/bundle/vim-lion" remote="github" />
-	<project name="edsono/vim-matchit"
-	         path="vim/vim/bundle/vim-matchit" remote="github" />
 	<project name="tpope/vim-repeat"
 	         path="vim/vim/bundle/vim-repeat" remote="github" />
 	<project name="justinmk/vim-sneak"
