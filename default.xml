@@ -46,10 +46,16 @@
 	         path="vim/vim/bundle/ctrlp.vim" remote="github" />
 	<project name="mrtazz/DoxygenToolkit.vim"
 	         path="vim/vim/bundle/DoxygenToolkit.vim" remote="github" />
+	<project name="vim-scripts/AnsiEsc.vim"
+	         path="vim/vim/bundle/AnsiEsc.vim" remote="github" />
+	<project name="vim-scripts/argtextobj.vim"
+	         path="vim/vim/bundle/argtextobj.vim" remote="github" />
 	<project name="vim-scripts/FuzzyFinder"
 	         path="vim/vim/bundle/FuzzyFinder" remote="github" />
 	<project name="vim-scripts/Gundo"
 	         path="vim/vim/bundle/Gundo" remote="github" />
+	<project name="Yggdroot/hiPairs"
+	         path="vim/vim/bundle/hiPairs" remote="github" />
 	<project name="guns/vim-sexp"
 	         path="vim/vim/bundle/vim-sexp" remote="github" />
 	<project name="kien/rainbow_parentheses.vim"
@@ -68,12 +74,18 @@
 	         path="vim/vim/bundle/vim-dragvisuals" remote="github" />
 	<project name="tommcdo/vim-exchange"
 	         path="vim/vim/bundle/vim-exchange" remote="github" />
+	<project name="chrisbra/vim-diff-enhanced"
+	         path="vim/vim/bundle/vim-diff-enhanced" remote="github" />
+	<project name="kopischke/vim-fetch"
+	         path="vim/vim/bundle/vim-fetch" remote="github" />
 	<project name="tpope/vim-fireplace"
 	         path="vim/vim/bundle/vim-fireplace" remote="github" />
 	<project name="tpope/vim-fugitive"
 	         path="vim/vim/bundle/vim-fugitive" remote="github" />
 	<project name="airblade/vim-gitgutter"
 	         path="vim/vim/bundle/vim-gitgutter" remote="github" />
+	<project name="jamessan/vim-gnupg"
+	         path="vim/vim/bundle/vim-gnupg" remote="github" />
 	<project name="tommcdo/vim-lion"
 	         path="vim/vim/bundle/vim-lion" remote="github" />
 	<project name="tpope/vim-repeat"
