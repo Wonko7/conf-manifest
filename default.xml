@@ -59,9 +59,9 @@
 	         path="vim/bundle/vim-sexp" remote="github" />
 	<project name="kien/rainbow_parentheses.vim"
 	         path="vim/bundle/rainbow_parentheses.vim" remote="github" />
-	<project name="bling/vim-airline"
+	<project name="vim-airline/vim-airline"
 	         path="vim/bundle/vim-airline" remote="github" />
-	<project name="bling/vim-airline-themes"
+	<project name="vim-airline/vim-airline-themes"
 	         path="vim/bundle/vim-airline-themes" remote="github" />
 	<project name="atweiden/vim-betterdigraphs"
 	         path="vim/bundle/vim-betterdigraphs" remote="github" />
