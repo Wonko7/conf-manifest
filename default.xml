@@ -43,6 +43,8 @@
 
 	<!-- vim plugins -->
 
+	<project name="bounceme/poppy.vim"
+	         path="vim/bundle/poppy.vim" remote="github" />
 	<project name="jrk/vim-ocaml"
 	         path="vim/bundle/vim-ocaml" remote="github" />
 	<project name="cfurrow/vim-l9"
