@@ -43,6 +43,14 @@
 
 	<!-- vim plugins -->
 
+	<project name="pangloss/vim-javascript.git"
+			 path="vim-javascript.git" remote="github" />
+	<project name="jiangmiao/auto-pairs"
+			 path="auto-pairs" remote="github" />
+	<project name="heavenshell/vim-jsdoc"
+			 path="vim-jsdoc" remote="github" />
+	<project name="w0rp/ale"
+			 path="ale" remote="github" />
 	<project name="bounceme/poppy.vim"
 	         path="vim/bundle/poppy.vim" remote="github" />
 	<project name="jrk/vim-ocaml"
