@@ -41,83 +41,10 @@
 	<project name="seebi/dircolors-solarized"
 		 path="zsh/dircolors-solarized" remote="github" />
 
-	<!-- vim plugins -->
+	<project name="zsh-users/zsh-autosuggestions"
+		 path="zsh/zsh-autosuggestions" remote="github" />
 
-	<project name="pangloss/vim-javascript.git"
-			 path="vim-javascript.git" remote="github" />
-	<project name="jiangmiao/auto-pairs"
-			 path="auto-pairs" remote="github" />
-	<project name="heavenshell/vim-jsdoc"
-			 path="vim-jsdoc" remote="github" />
-	<project name="w0rp/ale"
-			 path="ale" remote="github" />
-	<project name="bounceme/poppy.vim"
-	         path="vim/bundle/poppy.vim" remote="github" />
-	<project name="jrk/vim-ocaml"
-	         path="vim/bundle/vim-ocaml" remote="github" />
-	<project name="cfurrow/vim-l9"
-	         path="vim/bundle/vim-l9" remote="github" />
-	<project name="bkad/CamelCaseMotion"
-	         path="vim/bundle/CamelCaseMotion" remote="github" />
-	<project name="kien/ctrlp.vim"
-	         path="vim/bundle/ctrlp.vim" remote="github" />
-	<project name="mrtazz/DoxygenToolkit.vim"
-	         path="vim/bundle/DoxygenToolkit.vim" remote="github" />
-	<project name="vim-scripts/AnsiEsc.vim"
-	         path="vim/bundle/AnsiEsc.vim" remote="github" />
-	<project name="vim-scripts/argtextobj.vim"
-	         path="vim/bundle/argtextobj.vim" remote="github" />
-	<project name="vim-scripts/FuzzyFinder"
-	         path="vim/bundle/FuzzyFinder" remote="github" />
-	<project name="vim-scripts/Gundo"
-	         path="vim/bundle/Gundo" remote="github" />
-	<project name="Yggdroot/hiPairs"
-	         path="vim/bundle/hiPairs" remote="github" />
-	<project name="guns/vim-sexp"
-	         path="vim/bundle/vim-sexp" remote="github" />
-	<project name="kien/rainbow_parentheses.vim"
-	         path="vim/bundle/rainbow_parentheses.vim" remote="github" />
-	<project name="vim-airline/vim-airline"
-	         path="vim/bundle/vim-airline" remote="github" />
-	<project name="vim-airline/vim-airline-themes"
-	         path="vim/bundle/vim-airline-themes" remote="github" />
-	<project name="atweiden/vim-betterdigraphs"
-	         path="vim/bundle/vim-betterdigraphs" remote="github" />
-	<project name="tpope/vim-classpath"
-	         path="vim/bundle/vim-classpath" remote="github" />
-	<project name="guns/vim-clojure-static"
-	         path="vim/bundle/vim-clojure-static" remote="github" />
-	<project name="altercation/vim-colors-solarized"
-	         path="vim/bundle/vim-colors-solarized" remote="github" />
-	<project name="atweiden/vim-dragvisuals"
-	         path="vim/bundle/vim-dragvisuals" remote="github" />
-	<project name="tommcdo/vim-exchange"
-	         path="vim/bundle/vim-exchange" remote="github" />
-	<project name="chrisbra/vim-diff-enhanced"
-	         path="vim/bundle/vim-diff-enhanced" remote="github" />
-	<project name="kopischke/vim-fetch"
-	         path="vim/bundle/vim-fetch" remote="github" />
-	<project name="tpope/vim-fireplace"
-	         path="vim/bundle/vim-fireplace" remote="github" />
-	<project name="tpope/vim-fugitive"
-	         path="vim/bundle/vim-fugitive" remote="github" />
-	<project name="airblade/vim-gitgutter"
-	         path="vim/bundle/vim-gitgutter" remote="github" />
-	<project name="jamessan/vim-gnupg"
-	         path="vim/bundle/vim-gnupg" remote="github" />
-	<project name="tommcdo/vim-lion"
-	         path="vim/bundle/vim-lion" remote="github" />
-	<project name="tpope/vim-repeat"
-	         path="vim/bundle/vim-repeat" remote="github" />
-	<project name="justinmk/vim-sneak"
-	         path="vim/bundle/vim-sneak" remote="github" />
-	<project name="tsaleh/vim-supertab"
-	         path="vim/bundle/vim-supertab" remote="github" />
-	<project name="tpope/vim-surround"
-	         path="vim/bundle/vim-surround" remote="github" />
-	<project name="tpope/vim-vividchalk"
-	         path="vim/bundle/vim-vividchalk" remote="github" />
-
+	<!-- vim plugins: now managed by plug in vimrc -->
 	<!-- misc -->
 
 	<project name="powerline/fonts"
