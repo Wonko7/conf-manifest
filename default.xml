@@ -28,10 +28,13 @@
 	<!-- zsh plugins -->
 
 	<project name="zsh-users/zsh-completions"
-		 path="zsh/completions" remote="github" />
+                 path="zsh/bundle/completions" remote="github" />
 
 	<project name="zsh-users/zsh-syntax-highlighting"
-		 path="zsh/syntax-highlighting" remote="github" />
+                 path="zsh/bundle/syntax-highlighting" remote="github" />
+
+	<project name="zsh-users/zsh-autosuggestions"
+                 path="zsh/bundle/autosuggestions" remote="github" />
 
 
 	<!-- vim plugins -->
